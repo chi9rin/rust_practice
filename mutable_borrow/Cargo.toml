@@ -1,0 +1,6 @@
+[package]
+name = "mutable_borrow"
+version = "0.1.0"
+authors = ["Shinya TAKEBAYASHI <omoikanenomikoto@gmail.com>"]
+
+[dependencies]
